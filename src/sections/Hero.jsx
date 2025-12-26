@@ -73,7 +73,7 @@ export const Hero = () => {
             <div className="animate-fade-in">
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm text-primary">
                 <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
-                Software and AI Engineer
+                AI Engineer and Software Developer
               </span>
             </div>
 
@@ -96,10 +96,10 @@ export const Hero = () => {
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Hi, I’m Alpha Bah — a software and AI engineer specializing in
-                React, Next.js, Node.js and AI agent systems. I build scalable,
-                high-performance web applications that deliver real value to
-                users.
+                Hi, I’m Alpha Bah — AI engineer and software developer
+                specializing in React, Next.js, Node.js and AI agent systems. I
+                build scalable, high-performance web applications that deliver
+                real value to users.
               </p>
             </div>
 
