@@ -1,9 +1,14 @@
-import { Github, Linkedin, Twitter, Heart } from "lucide-react";
+import { Github, Linkedin, Twitter, Heart, Instagram } from "lucide-react";
 
 const socialLinks = [
-  { icon: Github, href: "#", label: "GitHub" },
-  { icon: Linkedin, href: "#", label: "LinkedIn" },
-  { icon: Twitter, href: "#", label: "Twitter" },
+  { icon: Github, href: "https://github.com/Alpha871", label: "GitHub" },
+  // { icon: Linkedin, href: "#", label: "LinkedIn" },
+  {
+    icon: Instagram,
+    href: "https://www.instagram.com/alpha_abah/",
+    label: "Instagram",
+  },
+  // { icon: Twitter, href: "#", label: "Twitter" },
 ];
 
 const footerLinks = [
